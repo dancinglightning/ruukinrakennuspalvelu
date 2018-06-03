@@ -31,5 +31,3 @@ group :development do
   gem 'capistrano-passenger'
 
 end
-
-gem 'jquery-rails'
