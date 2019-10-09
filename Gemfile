@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
+ruby "2.6.3"
 
 gem 'rails'
-gem 'sqlite3'
 gem 'puma', '~> 3.11'
 gem 'sass-rails'
 gem 'uglifier'
