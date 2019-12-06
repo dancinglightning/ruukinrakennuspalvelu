@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby "2.6.5"
 
 gem 'rails'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'sass-rails'
 gem 'uglifier'
 gem "haml-rails"
